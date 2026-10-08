@@ -27,9 +27,11 @@ var/
 log/
 *.log
 
-# Images and plots (optional - can be kept if needed)
-# *.png
-# *.gif
+# Images and plots - 不上传大体积图片
+animation.gif
+training_rewards.png
+collected_images/
+test_exp/
 
 # OS
 .DS_Store
