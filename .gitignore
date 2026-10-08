@@ -1,0 +1,36 @@
+# IDE
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Logs
+log/
+*.log
+
+# Images and plots (optional - can be kept if needed)
+# *.png
+# *.gif
+
+# OS
+.DS_Store
+Thumbs.db
